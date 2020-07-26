@@ -2,3 +2,21 @@
 ECUE333 - Initiation à la programmation embarquée --> Les ressources associés au cours.
 
 P.S.: Ajuster le README.md : [Basic Writting and Formatting Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+## Hello World : Bases d’une application Flutter
+
+Androidx Artifacts : [https://developer.android.com/jetpack/androidx](https://developer.android.com/jetpack/androidx)
+
+Bases du support à Kotlin et Swift : [https://testfairy.com/blog/flutter-and-native-communication/](https://testfairy.com/blog/flutter-and-native-communication/)
+
+Fonction __main()__ : [https://dart.dev/guides/language/language-tour#the-main-function](https://dart.dev/guides/language/language-tour#the-main-function)
+
+Material Design (détails 1) : [https://www.anthedesign.fr/webdesign-2/material-design-google-flat-design/](https://www.anthedesign.fr/webdesign-2/material-design-google-flat-design/)
+
+Material Design (détails 2) : [https://www.usabilis.com/material-design-lui-selon-google/](https://www.usabilis.com/material-design-lui-selon-google/)
+
+Material Design (spécifications techniques) : [https://material.io/](https://material.io/)
+
+Material Design et Flutter (intro) : [https://material.io/collections/get-started/#flutter](https://material.io/collections/get-started/#flutter)
+
+Material Design et Flutter (design) : [https://www.youtube.com/watch?v=6hmgkimeaEE](https://www.youtube.com/watch?v=6hmgkimeaEE)
