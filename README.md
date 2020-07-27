@@ -36,3 +36,5 @@ Des documents intéressants :
 - Palette de couleurs de Material Design : [https://material.io/design/color/the-color-system.html](https://material.io/design/color/the-color-system.html)
 
 - Widget __Image__ : [https://api.flutter.dev/flutter/widgets/Image-class.html](https://api.flutter.dev/flutter/widgets/Image-class.html)
+
+- Fichier __Pubspec__ : [https://dart.dev/tools/pub/pubspec](https://dart.dev/tools/pub/pubspec)
