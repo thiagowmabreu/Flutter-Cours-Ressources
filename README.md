@@ -22,3 +22,15 @@ Vous trouverez ci-dessous des compléments de lecture concernant les bases d'une
 - Material Design et Flutter (intro) : [https://material.io/collections/get-started/#flutter](https://material.io/collections/get-started/#flutter)
 
 - Material Design et Flutter (design) : [https://www.youtube.com/watch?v=6hmgkimeaEE](https://www.youtube.com/watch?v=6hmgkimeaEE)
+
+## Application : "Je suis riche"
+
+Des documents intéressants :
+
+- Widget __Scaffold__ : [https://api.flutter.dev/flutter/material/Scaffold-class.html](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+
+- Widget __AppBar__ : [https://api.flutter.dev/flutter/material/AppBar-class.html](https://api.flutter.dev/flutter/material/AppBar-class.html)
+
+- Widget __Text__ : [https://api.flutter.dev/flutter/widgets/Text-class.html](https://api.flutter.dev/flutter/widgets/Text-class.html)
+
+- Palette de couleurs de Material Design : [https://material.io/design/color/the-color-system.html](https://material.io/design/color/the-color-system.html)
