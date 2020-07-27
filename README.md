@@ -34,3 +34,5 @@ Des documents intéressants :
 - Widget __Text__ : [https://api.flutter.dev/flutter/widgets/Text-class.html](https://api.flutter.dev/flutter/widgets/Text-class.html)
 
 - Palette de couleurs de Material Design : [https://material.io/design/color/the-color-system.html](https://material.io/design/color/the-color-system.html)
+
+- Widget __Image__ : [https://api.flutter.dev/flutter/widgets/Image-class.html](https://api.flutter.dev/flutter/widgets/Image-class.html)
