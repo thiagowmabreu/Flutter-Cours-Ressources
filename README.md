@@ -5,18 +5,20 @@ P.S.: Ajuster le README.md : [Basic Writting and Formatting Syntax](https://docs
 
 ## Hello World : Bases d’une application Flutter
 
-Androidx Artifacts : [https://developer.android.com/jetpack/androidx](https://developer.android.com/jetpack/androidx)
+Vous trouverez ci-dessous des compléments de lecture concernant les bases d'une application Flutter :
 
-Bases du support à Kotlin et Swift : [https://testfairy.com/blog/flutter-and-native-communication/](https://testfairy.com/blog/flutter-and-native-communication/)
+- Androidx Artifacts : [https://developer.android.com/jetpack/androidx](https://developer.android.com/jetpack/androidx)
 
-Fonction __main()__ : [https://dart.dev/guides/language/language-tour#the-main-function](https://dart.dev/guides/language/language-tour#the-main-function)
+- Bases du support à Kotlin et Swift : [https://testfairy.com/blog/flutter-and-native-communication/](https://testfairy.com/blog/flutter-and-native-communication/)
 
-Material Design (détails 1) : [https://www.anthedesign.fr/webdesign-2/material-design-google-flat-design/](https://www.anthedesign.fr/webdesign-2/material-design-google-flat-design/)
+- Fonction __main()__ : [https://dart.dev/guides/language/language-tour#the-main-function](https://dart.dev/guides/language/language-tour#the-main-function)
 
-Material Design (détails 2) : [https://www.usabilis.com/material-design-lui-selon-google/](https://www.usabilis.com/material-design-lui-selon-google/)
+- Material Design (détails 1) : [https://www.anthedesign.fr/webdesign-2/material-design-google-flat-design/](https://www.anthedesign.fr/webdesign-2/material-design-google-flat-design/)
 
-Material Design (spécifications techniques) : [https://material.io/](https://material.io/)
+- Material Design (détails 2) : [https://www.usabilis.com/material-design-lui-selon-google/](https://www.usabilis.com/material-design-lui-selon-google/)
 
-Material Design et Flutter (intro) : [https://material.io/collections/get-started/#flutter](https://material.io/collections/get-started/#flutter)
+- Material Design (spécifications techniques) : [https://material.io/](https://material.io/)
 
-Material Design et Flutter (design) : [https://www.youtube.com/watch?v=6hmgkimeaEE](https://www.youtube.com/watch?v=6hmgkimeaEE)
+- Material Design et Flutter (intro) : [https://material.io/collections/get-started/#flutter](https://material.io/collections/get-started/#flutter)
+
+- Material Design et Flutter (design) : [https://www.youtube.com/watch?v=6hmgkimeaEE](https://www.youtube.com/watch?v=6hmgkimeaEE)
