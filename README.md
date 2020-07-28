@@ -38,3 +38,5 @@ Des documents intéressants :
 - Widget __Image__ : [https://api.flutter.dev/flutter/widgets/Image-class.html](https://api.flutter.dev/flutter/widgets/Image-class.html)
 
 - Fichier __Pubspec__ : [https://dart.dev/tools/pub/pubspec](https://dart.dev/tools/pub/pubspec)
+
+- Création des icônes pour vos applications : [https://appicon.co/](https://appicon.co/)
