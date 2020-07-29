@@ -41,7 +41,7 @@ Des documents intéressants :
 
 - Création des icônes pour vos applications : [https://appicon.co/](https://appicon.co/)
 
-# Outils pour la création des icônes et images pour les apps
+## Outils pour la création des icônes et images pour les apps
 
 - Canva : [https://www.canva.com/](https://www.canva.com/)
 
