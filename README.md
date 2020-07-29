@@ -40,3 +40,11 @@ Des documents intéressants :
 - Fichier __Pubspec__ : [https://dart.dev/tools/pub/pubspec](https://dart.dev/tools/pub/pubspec)
 
 - Création des icônes pour vos applications : [https://appicon.co/](https://appicon.co/)
+
+# Outils pour la création des icônes et images pour les apps
+
+- Canva : [https://www.canva.com/](https://www.canva.com/)
+
+- icones8 [https://icones8.fr/](https://icones8.fr/)
+
+- Vecteezy : [https://www.vecteezy.com/](https://www.vecteezy.com/)
