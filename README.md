@@ -48,3 +48,23 @@ Des documents intéressants :
 - icones8 [https://icones8.fr/](https://icones8.fr/)
 
 - Vecteezy : [https://www.vecteezy.com/](https://www.vecteezy.com/)
+
+## Widgtes Stateless et Stateful + Hot Reload
+
+- Stateless (doc officiale) : [https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
+
+- Stateful (doc officiale) : [https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)
+
+- Stateless et Stateful (extras) : 
+  - [https://flutter.dev/docs/development/ui/interactive#stateful-stateless](https://flutter.dev/docs/development/ui/interactive#stateful-stateless)
+  - [https://blog.mindorks.com/statelesswidget-vs-statefulwidget-in-flutter](https://blog.mindorks.com/statelesswidget-vs-statefulwidget-in-flutter)
+  - [https://medium.com/@nhancv/why-i-move-to-flutter-34c4005b96ef](https://medium.com/@nhancv/why-i-move-to-flutter-34c4005b96ef)
+  - [https://proandroiddev.com/flutter-a-hitchhiker-guide-to-stateless-and-stateful-widgets-cc9f9295253b](https://proandroiddev.com/flutter-a-hitchhiker-guide-to-stateless-and-stateful-widgets-cc9f9295253b)
+  - [https://blog.mindorks.com/statelesswidget-vs-statefulwidget-in-flutter](https://blog.mindorks.com/statelesswidget-vs-statefulwidget-in-flutter)
+
+
+
+- Classe __BuildContext__ : [https://api.flutter.dev/flutter/widgets/BuildContext-class.html](https://api.flutter.dev/flutter/widgets/BuildContext-class.html
+)
+
+- Widget __Container__ : [https://api.flutter.dev/flutter/widgets/Container-class.html](https://api.flutter.dev/flutter/widgets/Container-class.html)
