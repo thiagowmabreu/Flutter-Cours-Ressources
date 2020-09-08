@@ -49,7 +49,7 @@ Des documents intéressants :
 
 - Vecteezy : [https://www.vecteezy.com/](https://www.vecteezy.com/)
 
-## Widgtes Stateless et Stateful + Hot Reload
+## Widgets Stateless et Stateful + Hot Reload
 
 - Stateless (doc officiale) : [https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
 
@@ -62,9 +62,16 @@ Des documents intéressants :
   - [https://proandroiddev.com/flutter-a-hitchhiker-guide-to-stateless-and-stateful-widgets-cc9f9295253b](https://proandroiddev.com/flutter-a-hitchhiker-guide-to-stateless-and-stateful-widgets-cc9f9295253b)
   - [https://blog.mindorks.com/statelesswidget-vs-statefulwidget-in-flutter](https://blog.mindorks.com/statelesswidget-vs-statefulwidget-in-flutter)
 
-
-
 - Classe __BuildContext__ : [https://api.flutter.dev/flutter/widgets/BuildContext-class.html](https://api.flutter.dev/flutter/widgets/BuildContext-class.html
 )
 
-- Widget __Container__ : [https://api.flutter.dev/flutter/widgets/Container-class.html](https://api.flutter.dev/flutter/widgets/Container-class.html)
+## Mise en page (layouts)
+
+- Single-child widgets : [https://flutter.dev/docs/development/ui/widgets/layout#Single-child%20layout%20widgets](https://flutter.dev/docs/development/ui/widgets/layout#Single-child%20layout%20widgets)
+  - Widget __Container__ : [https://api.flutter.dev/flutter/widgets/Container-class.html](https://api.flutter.dev/flutter/widgets/Container-class.html)
+
+- Multi-child widgets : [https://flutter.dev/docs/development/ui/widgets/layout#Multi-child%20layout%20widgets](https://flutter.dev/docs/development/ui/widgets/layout#Multi-child%20layout%20widgets)
+  - Widget __Column__ : [https://api.flutter.dev/flutter/widgets/Column-class.html](https://api.flutter.dev/flutter/widgets/Column-class.html)
+  - Widget __Row__ : [https://api.flutter.dev/flutter/widgets/Row-class.html](https://api.flutter.dev/flutter/widgets/Row-class.html)
+  
+- FLutter Layout Cheat Sheet : [https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
