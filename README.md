@@ -85,3 +85,9 @@ Des documents intéressants :
 - Material Design Icons : [https://material.io/resources/icons/?style=baseline](https://material.io/resources/icons/?style=baseline)
 
 - Material Palette : [https://www.materialpalette.com/icons](https://www.materialpalette.com/icons)
+
+- Widget Card : [https://api.flutter.dev/flutter/material/Card-class.html](https://api.flutter.dev/flutter/material/Card-class.html)
+
+- Widget ListTile : [https://api.flutter.dev/flutter/material/ListTile-class.html](https://api.flutter.dev/flutter/material/ListTile-class.html)
+
+- Widget Divider (ligne horizontale) : [https://api.flutter.dev/flutter/material/Divider-class.html](https://api.flutter.dev/flutter/material/Divider-class.html)
