@@ -1,6 +1,8 @@
 # Flutter-Cours-Ressources
 ECUE333 - Initiation à la programmation embarquée --> Les ressources associés au cours.
 
+- Ce cours est largement inspiré de la formation **Complete Flutter Development Course** disponible sur [https://www.appbrewery.co/](https://www.appbrewery.co/)
+
 P.S.: Ajuster le README.md : [Basic Writting and Formatting Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ## Hello World : Bases d’une application Flutter
@@ -65,14 +67,20 @@ Des documents intéressants :
 - Classe __BuildContext__ : [https://api.flutter.dev/flutter/widgets/BuildContext-class.html](https://api.flutter.dev/flutter/widgets/BuildContext-class.html
 )
 
+- Régardez l'application d'exemple : **projets/exemple_stateless**
+
 ## Mise en page (layouts)
 
 - Single-child widgets : [https://flutter.dev/docs/development/ui/widgets/layout#Single-child%20layout%20widgets](https://flutter.dev/docs/development/ui/widgets/layout#Single-child%20layout%20widgets)
   - Widget __Container__ : [https://api.flutter.dev/flutter/widgets/Container-class.html](https://api.flutter.dev/flutter/widgets/Container-class.html)
+  
+  - Régardez l'application d'exemple : **projets/single_child_layout**
 
 - Multi-child widgets : [https://flutter.dev/docs/development/ui/widgets/layout#Multi-child%20layout%20widgets](https://flutter.dev/docs/development/ui/widgets/layout#Multi-child%20layout%20widgets)
   - Widget __Column__ : [https://api.flutter.dev/flutter/widgets/Column-class.html](https://api.flutter.dev/flutter/widgets/Column-class.html)
   - Widget __Row__ : [https://api.flutter.dev/flutter/widgets/Row-class.html](https://api.flutter.dev/flutter/widgets/Row-class.html)
+  
+  - Régardez l'application d'exemple : **projets/multi_child_layout**
   
 - FLutter Layout Cheat Sheet : [https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 
@@ -91,3 +99,5 @@ Des documents intéressants :
 - Widget ListTile : [https://api.flutter.dev/flutter/material/ListTile-class.html](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
 - Widget Divider (ligne horizontale) : [https://api.flutter.dev/flutter/material/Divider-class.html](https://api.flutter.dev/flutter/material/Divider-class.html)
+
+- Régardez l'application d'exemple : **projets/mi_card_application_v2**
