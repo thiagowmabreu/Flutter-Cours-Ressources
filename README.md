@@ -75,3 +75,13 @@ Des documents intéressants :
   - Widget __Row__ : [https://api.flutter.dev/flutter/widgets/Row-class.html](https://api.flutter.dev/flutter/widgets/Row-class.html)
   
 - FLutter Layout Cheat Sheet : [https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
+
+- Google Fonts : [https://fonts.google.com/](https://fonts.google.com/)
+
+- Utiliser de polices de caractères customisées sur Flutter : [https://flutter.dev/custom-fonts/#from-packages](https://flutter.dev/custom-fonts/#from-packages)
+
+- Classe Icons de Flutter : [https://api.flutter.dev/flutter/material/Icons-class.html](https://api.flutter.dev/flutter/material/Icons-class.html)
+
+- Material Design Icons : [https://material.io/resources/icons/?style=baseline](https://material.io/resources/icons/?style=baseline)
+
+- Material Palette : [https://www.materialpalette.com/icons](https://www.materialpalette.com/icons)
